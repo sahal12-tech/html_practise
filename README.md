@@ -49,7 +49,7 @@ To follow along or use this repo:
 
 ```bash
 # Clone the repo
-git clone https://github.com/your-username/i-am-learning-git-and-github.git
+git clone https://github.com/your-sahal12-tech/i-am-learning-git-and-github.git
 
 # Navigate into the directory
 cd i-am-learning-git-and-github
